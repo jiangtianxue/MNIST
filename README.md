@@ -1,6 +1,6 @@
 # MNIST
 machine learning with MNIST
 
-######Introduction  
-#####Install  
-####Backgroud  
+# Introduction  
+## Install  
+### Backgroud  
