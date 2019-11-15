@@ -1,5 +1,5 @@
-# MNIST
-machine learning with MNIST
+# Table of content  
+---
 
 # Introduction  
 ## Install  
