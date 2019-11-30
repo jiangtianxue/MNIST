@@ -8,5 +8,11 @@ This repository contains:
   1. The dataset particular for MNIST network, you can also download from [here](http://yann.lecun.com/exdb/mnist/ "dataset").
   2. A train file can training and test the MNIST network.
   3. A visualization file to show the loss and accuracy of training and test procedure respectively.
-  
+
+## Table of Content
+* Background
+* Running
+* Requirement
+* Files Explanation
+* About me
 
