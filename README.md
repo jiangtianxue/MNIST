@@ -10,9 +10,14 @@ This repository contains:
   3. A visualization file to show the loss and accuracy of training and test procedure respectively.
 
 ## Table of Content
-* Background
-* Running
-* Requirement
-* Files Explanation
-* About me
+* [Background](#1)
+* [Running](#2)
+* [Requirement](#3)
+* [Files Explanation](#4)
+* [About me](#5)
 
+<h2 id='1'>Background</h2>
+<h2 id='2'>Running</h2>
+<h2 id='3'>Requirement</h2>
+<h2 id='4'>Files Explanation</h2>
+<h2 id='5'>About me</h2>
