@@ -1,4 +1,9 @@
+Machine Learning MNIST
+======================
+Train MNIST Network
+_____________________
 # **Table of content**  
+=======================
 
 ## **Introduction**  
 this is the introduction of this project.
